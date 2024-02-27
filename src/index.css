@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+.dave {
+    position: fixed;
+    bottom: 0;
+}
+
+.john {
+    height: 100%;
+    
+}
